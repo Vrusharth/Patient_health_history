@@ -1,0 +1,301 @@
+Patient_ID,Name,Age,Gender,Disease,Cured,Medications,Date,Diagnosing_Doctor
+1,Dheeraj Singh,35,Male,Influenza,Yes,Tylenol,2023-01-15,Dr. Emily Johnson
+1,Dheeraj Singh,35,Male,Asthma,No,Albuterol,2023-05-02,Dr. Mark Wilson
+1,Dheeraj Singh,35,Male,Food Poisoning,Yes,Hydration,2023-09-21,Dr. Sarah Davis
+2,Alice Johnson,45,Female,Hypertension,Yes,Lisinopril,2023-02-02,Dr. Michael Williams
+2,Alice Johnson,45,Female,Type 2 Diabetes,No,Insulin,2023-06-08,Dr. Jessica Martinez
+2,Alice Johnson,45,Female,Anxiety,Yes,Xanax,2023-10-15,Dr. David Thompson
+3,Michael Davis,50,Male,Diabetes,No,Insulin,2023-03-10,Dr. Sarah Lee
+3,Michael Davis,50,Male,Hypothyroidism,Yes,Levothyroxine,2023-07-18,Dr. Jennifer Baker
+3,Michael Davis,50,Male,Depression,Yes,SSRIs,2023-11-30,Dr. Robert Garcia
+4,Sarah Wilson,28,Female,Common Cold,Yes,Paracetamol,2023-04-05,Dr. David Brown
+4,Sarah Wilson,28,Female,UTI,Yes,Antibiotics,2023-08-14,Dr. Michelle Taylor
+4,Sarah Wilson,28,Female,Conjunctivitis,Yes,Artificial tears,2023-12-19,Dr. Lisa Hernandez
+5,David Brown,62,Male,Arthritis,No,Ibuprofen,2023-05-20,Dr. Lisa Hernandez
+5,David Brown,62,Male,Hypertension,Yes,Atenolol,2023-09-02,Dr. William Thomas
+5,David Brown,62,Male,Osteoarthritis,Yes,Acetaminophen,2023-11-28,Dr. Emily Martinez
+6,Emily Martinez,40,Female,Asthma,Yes,Albuterol,2023-06-12,Dr. Robert Anderson
+6,Emily Martinez,40,Female,Sinusitis,Yes,Decongestants,2023-10-05,Dr. Kimberly Wilson
+6,Emily Martinez,40,Female,Allergies,Yes,Cetirizine,2023-12-23,Dr. Michael Harris
+7,Robert Anderson,55,Male,Heart Disease,Yes,Atorvastatin,2023-07-03,Dr. Michelle Taylor
+7,Robert Anderson,55,Male,Hypertension,Yes,Lisinopril,2023-11-09,Dr. Sarah Wilson
+7,Robert Anderson,55,Male,GERD,Yes,Omeprazole,2023-12-30,Dr. Christopher Taylor
+8,Michelle Taylor,48,Female,Anxiety,Yes,Xanax,2023-08-18,Dr. William Thomas
+8,Michelle Taylor,48,Female,Insomnia,Yes,Melatonin,2023-10-24,Dr. Jennifer Clark
+8,Michelle Taylor,48,Female,Bipolar Disorder,Yes,Lithium,2023-12-11,Dr. David Brown
+9,William Thomas,30,Male,Migraine,Yes,Sumatriptan,2023-09-09,Dr. Jessica Adams
+9,William Thomas,30,Male,Acne,Yes,Topical retinoids,2023-10-15,Dr. Emily Johnson
+9,William Thomas,30,Male,Allergies,Yes,Cetirizine,2023-12-20,Dr. Michael Harris
+10,Jennifer Clark,37,Female,Allergies,Yes,Cetirizine,2023-10-01,Dr. Jennifer Clark
+10,Jennifer Clark,37,Female,GERD,Yes,Omeprazole,2023-11-17,Dr. Sarah Wilson
+10,Jennifer Clark,37,Female,Sinusitis,Yes,Decongestants,2023-12-29,Dr. Kimberly Wilson
+11,James White,65,Male,Osteoporosis,No,Calcium supplements,2023-01-18,Dr. Michael Baker
+11,James White,65,Male,Arthritis,Yes,Ibuprofen,2023-04-07,Dr. Jennifer Garcia
+11,James White,65,Male,GERD,Yes,Omeprazole,2023-08-14,Dr. Sarah Wilson
+12,Lisa Lee,42,Female,Depression,Yes,SSRIs,2023-02-20,Dr. Christopher Harris
+12,Lisa Lee,42,Female,Anxiety,Yes,Xanax,2023-06-05,Dr. Robert Anderson
+12,Lisa Lee,42,Female,Insomnia,Yes,Melatonin,2023-09-09,Dr. William Thomas
+13,Christopher Harris,55,Male,Obesity,No,Diet control,2023-03-15,Dr. David Brown
+13,Christopher Harris,55,Male,Hypertension,Yes,Lisinopril,2023-07-02,Dr. Michael Taylor
+13,Christopher Harris,55,Male,Type 2 Diabetes,Yes,Metformin,2023-11-19,Dr. Sarah Davis
+14,Amanda King,29,Female,Sinusitis,Yes,Decongestants,2023-04-03,Dr. Kimberly Wilson
+14,Amanda King,29,Female,Allergies,Yes,Cetirizine,2023-07-20,Dr. Michael Harris
+14,Amanda King,29,Female,Common Cold,Yes,Paracetamol,2023-11-05,Dr. David Brown
+15,Matthew Rodriguez,47,Male,Insomnia,Yes,Melatonin,2023-05-02,Dr. Jennifer Clark
+15,Matthew Rodriguez,47,Male,GERD,Yes,Omeprazole,2023-09-12,Dr. Sarah Wilson
+15,Matthew Rodriguez,47,Male,Anxiety,Yes,Xanax,2023-12-27,Dr. Michelle Taylor
+16,Rebecca Thompson,38,Female,GERD,Yes,Omeprazole,2023-06-08,Dr. Sarah Wilson
+16,Rebecca Thompson,38,Female,Depression,Yes,SSRIs,2023-10-15,Dr. David Thompson
+16,Rebecca Thompson,38,Female,Insomnia,Yes,Melatonin,2023-12-21,Dr. Michael Johnson
+17,Daniel Martinez,33,Male,ADHD,Yes,Methylphenidate,2023-01-05,Dr. Christopher Harris
+17,Daniel Martinez,33,Male,Anxiety,Yes,Xanax,2023-04-19,Dr. Robert Anderson
+17,Daniel Martinez,33,Male,Insomnia,Yes,Melatonin,2023-09-07,Dr. William Thomas
+18,Kimberly Wilson,51,Female,High Cholesterol,Yes,Statins,2023-02-08,Dr. Michael Taylor
+18,Kimberly Wilson,51,Female,Type 2 Diabetes,Yes,Metformin,2023-06-25,Dr. Sarah Davis
+18,Kimberly Wilson,51,Female,Hypertension,Yes,Lisinopril,2023-10-10,Dr. Christopher Harris
+19,Joseph Taylor,44,Male,Psoriasis,Yes,Topical steroids,2023-03-18,Dr. Jennifer Baker
+19,Joseph Taylor,44,Male,Arthritis,Yes,Ibuprofen,2023-05-29,Dr. Michael Harris
+19,Joseph Taylor,44,Male,GERD,Yes,Omeprazole,2023-09-14,Dr. Sarah Wilson
+20,Patricia Miller,60,Female,Stroke,Yes,Aspirin,2023-01-20,Dr. Michelle Taylor
+20,Patricia Miller,60,Female,Hypertension,Yes,Lisinopril,2023-04-08,Dr. Sarah Davis
+20,Patricia Miller,60,Female,Diabetes,No,Insulin,2023-08-11,Dr. Christopher Harris
+21,Andrew Garcia,31,Male,Acne,Yes,Topical retinoids,2023-02-17,Dr. Emily Johnson
+21,Andrew Garcia,31,Male,Allergies,Yes,Cetirizine,2023-06-05,Dr. Jennifer Clark
+21,Andrew Garcia,31,Male,Sinusitis,Yes,Decongestants,2023-10-12,Dr. Kimberly Wilson
+22,Laura Hernandez,56,Female,Hypothyroidism,Yes,Levothyroxine,2023-03-05,Dr. Jennifer Baker
+22,Laura Hernandez,56,Female,Arthritis,Yes,Ibuprofen,2023-07-19,Dr. Michael Harris
+22,Laura Hernandez,56,Female,GERD,Yes,Omeprazole,2023-11-24,Dr. Sarah Wilson
+23,Joshua Wright,39,Male,Gastroenteritis,Yes,Oral rehydration solution,2023-05-04,Dr. Sarah Davis
+23,Joshua Wright,39,Male,Common Cold,Yes,Paracetamol,2023-08-22,Dr. Michelle Taylor
+23,Joshua Wright,39,Male,UTI,Yes,Antibiotics,2023-12-30,Dr. Jennifer Baker
+24,Samantha Moore,32,Female,Bipolar Disorder,Yes,Lithium,2023-02-10,Dr. David Brown
+24,Samantha Moore,32,Female,Depression,Yes,SSRIs,2023-06-17,Dr. Robert Anderson
+24,Samantha Moore,32,Female,Anxiety,Yes,Xanax,2023-11-05,Dr. William Thomas
+25,Nicholas Lewis,49,Male,Prostate Cancer,No,Radiation therapy,2023-01-15,Dr. Sarah Davis
+25,Nicholas Lewis,49,Male,High Cholesterol,Yes,Statins,2023-04-30,Dr. Michael Taylor
+25,Nicholas Lewis,49,Male,Hypertension,Yes,Lisinopril,2023-08-18,Dr. Sarah Wilson
+26,Ashley Scott,34,Female,Eczema,Yes,Corticosteroids,2023-03-20,Dr. Michael Harris
+26,Ashley Scott,34,Female,Allergies,Yes,Cetirizine,2023-07-07,Dr. Jennifer Clark
+26,Ashley Scott,34,Female,Common Cold,Yes,Paracetamol,2023-11-14,Dr. Michelle Taylor
+27,Brandon Hill,41,Male,Type 2 Diabetes,Yes,Metformin,2023-01-02,Dr. Sarah Davis
+27,Brandon Hill,41,Male,Hypertension,Yes,Lisinopril,2023-05-20,Dr. Michael Taylor
+27,Brandon Hill,41,Male,GERD,Yes,Omeprazole,2023-09-16,Dr. Sarah Wilson
+28,Megan Green,36,Female,Anemia,Yes,Iron supplements,2023-03-05,Dr. Jennifer Baker
+28,Megan Green,36,Female,Insomnia,Yes,Melatonin,2023-06-20,Dr. William Thomas
+28,Megan Green,36,Female,Depression,Yes,SSRIs,2023-10-15,Dr. David Thompson
+29,Justin Hall,52,Male,Alzheimer's Disease,No,Donepezil,2023-02-11,Dr. Michael Johnson
+29,Justin Hall,52,Male,Depression,Yes,SSRIs,2023-05-18,Dr. Robert Anderson
+29,Justin Hall,52,Male,Anxiety,Yes,Xanax,2023-08-27,Dr. William Thomas
+30,Amy Adams,46,Female,PCOS,Yes,Oral contraceptives,2023-01-20,Dr. Sarah Davis
+30,Amy Adams,46,Female,Insomnia,Yes,Melatonin,2023-04-30,Dr. Michelle Taylor
+30,Amy Adams,46,Female,GERD,Yes,Omeprazole,2023-08-14,Dr. Christopher Harris
+31,Jonathan Perez,43,Male,Chronic Kidney Disease,No,Dialysis,2023-03-15,Dr. David Brown
+31,Jonathan Perez,43,Male,Hypertension,Yes,Lisinopril,2023-07-22,Dr. Michael Taylor
+31,Jonathan Perez,43,Male,Type 2 Diabetes,Yes,Metformin,2023-11-29,Dr. Sarah Davis
+32,Stephanie Cook,58,Female,Rheumatoid Arthritis,Yes,Methotrexate,2023-04-03,Dr. Jennifer Baker
+32,Stephanie Cook,58,Female,Osteoarthritis,Yes,Acetaminophen,2023-07-21,Dr. Michael Harris
+32,Stephanie Cook,58,Female,Fibromyalgia,Yes,Analgesics,2023-10-18,Dr. David Thompson
+33,Eric Bailey,35,Male,Sleep Apnea,Yes,CPAP machine,2023-02-07,Dr. Michael Johnson
+33,Eric Bailey,35,Male,GERD,Yes,Omeprazole,2023-06-15,Dr. Sarah Wilson
+33,Eric Bailey,35,Male,Anxiety,Yes,Xanax,2023-10-21,Dr. William Thomas
+34,Christina Rivera,53,Female,Glaucoma,Yes,Prostaglandin analogs,2023-03-30,Dr. Michelle Taylor
+34,Christina Rivera,53,Female,High Cholesterol,Yes,Statins,2023-07-12,Dr. Sarah Davis
+34,Christina Rivera,53,Female,Hypertension,Yes,Lisinopril,2023-11-28,Dr. Michael Taylor
+35,Mark Carter,57,Male,Liver Cirrhosis,No,Liver transplant,2023-05-01,Dr. Sarah Davis
+35,Mark Carter,57,Male,Hypertension,Yes,Lisinopril,2023-08-27,Dr. Michael Taylor
+35,Mark Carter,57,Male,Type 2 Diabetes,Yes,Metformin,2023-12-14,Dr. Sarah Davis
+36,Alexis Mitchell,38,Female,Multiple Sclerosis,Yes,Disease-modifying therapies,2023-03-12,Dr. Jennifer Baker
+36,Alexis Mitchell,38,Female,Depression,Yes,SSRIs,2023-06-29,Dr. Robert Anderson
+36,Alexis Mitchell,38,Female,Anxiety,Yes,Xanax,2023-10-18,Dr. William Thomas
+37,Adam Perez,47,Male,Hepatitis C,Yes,Antiviral medications,2023-01-10,Dr. Michael Johnson
+37,Adam Perez,47,Male,High Cholesterol,Yes,Statins,2023-04-17,Dr. Sarah Davis
+37,Adam Perez,47,Male,Hypertension,Yes,Lisinopril,2023-08-22,Dr. Michael Taylor
+38,Jessica Edwards,39,Female,Endometriosis,Yes,Hormonal therapy,2023-03-02,Dr. Sarah Davis
+38,Jessica Edwards,39,Female,PCOS,Yes,Oral contraceptives,2023-06-16,Dr. Michelle Taylor
+38,Jessica Edwards,39,Female,Depression,Yes,SSRIs,2023-11-02,Dr. David Thompson
+39,Jeremy Stewart,61,Male,Lung Cancer,No,Chemotherapy,2023-01-08,Dr. Michael Johnson
+39,Jeremy Stewart,61,Male,High Cholesterol,Yes,Statins,2023-05-27,Dr. Sarah Davis
+39,Jeremy Stewart,61,Male,Hypertension,Yes,Lisinopril,2023-09-15,Dr. Michael Taylor
+40,Christine Torres,50,Female,Fibromyalgia,Yes,Analgesics,2023-03-13,Dr. Jennifer Baker
+40,Christine Torres,50,Female,Arthritis,Yes,Ibuprofen,2023-06-22,Dr. Michael Harris
+40,Christine Torres,50,Female,Depression,Yes,SSRIs,2023-10-29,Dr. David Thompson
+41,Scott Flores,48,Male,Parkinson's Disease,Yes,Dopamine agonists,2023-02-20,Dr. Christopher Harris
+41,Scott Flores,48,Male,High Cholesterol,Yes,Statins,2023-05-11,Dr. Sarah Davis
+41,Scott Flores,48,Male,Hypertension,Yes,Lisinopril,2023-08-24,Dr. Michael Taylor
+42,Andrea Collins,44,Female,Crohn's Disease,Yes,Immunosuppressants,2023-03-25,Dr. Jennifer Baker
+42,Andrea Collins,44,Female,Arthritis,Yes,Ibuprofen,2023-07-08,Dr. Michael Harris
+42,Andrea Collins,44,Female,GERD,Yes,Omeprazole,2023-10-17,Dr. Sarah Wilson
+43,Timothy Hill,55,Male,Benign Prostatic Hyperplasia,Yes,Alpha blockers,2023-01-14,Dr. Christopher Harris
+43,Timothy Hill,55,Male,High Cholesterol,Yes,Statins,2023-04-23,Dr. Sarah Davis
+43,Timothy Hill,55,Male,Hypertension,Yes,Lisinopril,2023-09-10,Dr. Michael Taylor
+44,Kelly Turner,34,Female,UTI,Yes,Antibiotics,2023-02-05,Dr. Michael Johnson
+44,Kelly Turner,34,Female,Common Cold,Yes,Paracetamol,2023-05-09,Dr. Sarah Davis
+44,Kelly Turner,34,Female,Conjunctivitis,Yes,Artificial tears,2023-10-16,Dr. Michael Harris
+45,Phillip Baker,59,Male,Melanoma,Yes,Surgery,2023-03-03,Dr. Jennifer Baker
+45,Phillip Baker,59,Male,High Cholesterol,Yes,Statins,2023-06-14,Dr. Michael Taylor
+45,Phillip Baker,59,Male,Hypertension,Yes,Lisinopril,2023-09-29,Dr. Sarah Davis
+46,Cassandra Rogers,37,Female,Major Depressive Disorder,Yes,Psychotherapy,2023-02-07,Dr. Robert Anderson
+46,Cassandra Rogers,37,Female,Anxiety,Yes,Xanax,2023-05-21,Dr. William Thomas
+46,Cassandra Rogers,37,Female,Insomnia,Yes,Melatonin,2023-10-08,Dr. David Thompson
+47,Todd Peterson,63,Male,Hypertension,Yes,Lisinopril,2023-01-13,Dr. Michael Taylor
+47,Todd Peterson,63,Male,High Cholesterol,Yes,Statins,2023-04-20,Dr. Sarah Davis
+47,Todd Peterson,63,Male,Type 2 Diabetes,Yes,Metformin,2023-09-07,Dr. Sarah Davis
+48,Jacqueline Morris,42,Female,Gastritis,Yes,Antacids,2023-03-18,Dr. Michael Johnson
+48,Jacqueline Morris,42,Female,GERD,Yes,Omeprazole,2023-06-07,Dr. Sarah Wilson
+48,Jacqueline Morris,42,Female,Anxiety,Yes,Xanax,2023-11-14,Dr. William Thomas
+49,Gregory Alexander,45,Male,Colitis,Yes,Corticosteroids,2023-02-21,Dr. Jennifer Baker
+49,Gregory Alexander,45,Male,GERD,Yes,Omeprazole,2023-07-08,Dr. Sarah Wilson
+49,Gregory Alexander,45,Male,Anxiety,Yes,Xanax,2023-10-19,Dr. William Thomas
+50,Natalie Price,56,Female,Ankylosing Spondylitis,Yes,NSAIDs,2023-01-12,Dr. Michael Harris
+50,Natalie Price,56,Female,Arthritis,Yes,Ibuprofen,2023-05-29,Dr. Jennifer Baker
+50,Natalie Price,56,Female,GERD,Yes,Omeprazole,2023-09-14,Dr. Sarah Wilson
+51,Philip Long,40,Male,Bronchitis,Yes,Antibiotics,2023-03-27,Dr. Sarah Davis
+51,Philip Long,40,Male,Common Cold,Yes,Paracetamol,2023-07-09,Dr. Michael Harris
+51,Philip Long,40,Male,Allergies,Yes,Cetirizine,2023-10-16,Dr. Jennifer Clark
+52,Brittany Hughes,36,Female,GERD,Yes,Omeprazole,2023-01-01,Dr. Sarah Wilson
+52,Brittany Hughes,36,Female,Anxiety,Yes,Xanax,2023-04-15,Dr. William Thomas
+52,Brittany Hughes,36,Female,Insomnia,Yes,Melatonin,2023-09-28,Dr. David Thompson
+53,Ryan Russell,49,Male,Hepatitis B,Yes,Antiviral medications,2023-02-12,Dr. Michael Johnson
+53,Ryan Russell,49,Male,High Cholesterol,Yes,Statins,2023-06-30,Dr. Sarah Davis
+53,Ryan Russell,49,Male,Hypertension,Yes,Lisinopril,2023-11-05,Dr. Michael Taylor
+54,Monica Powell,51,Female,Hypertension,Yes,Lisinopril,2023-03-15,Dr. Michael Taylor
+54,Monica Powell,51,Female,High Cholesterol,Yes,Statins,2023-07-18,Dr. Sarah Davis
+54,Monica Powell,51,Female,GERD,Yes,Omeprazole,2023-11-23,Dr. Michael Harris
+55,Jeffrey Simmons,58,Male,Type 2 Diabetes,Yes,Metformin,2023-01-08,Dr. Sarah Davis
+55,Jeffrey Simmons,58,Male,Hypertension,Yes,Lisinopril,2023-04-29,Dr. Michael Taylor
+55,Jeffrey Simmons,58,Male,GERD,Yes,Omeprazole,2023-09-15,Dr. Sarah Wilson
+56,Carolyn Brooks,46,Female,Osteoporosis,No,Calcium supplements,2023-03-22,Dr. Michael Baker
+56,Carolyn Brooks,46,Female,Arthritis,Yes,Ibuprofen,2023-07-29,Dr. Jennifer Garcia
+56,Carolyn Brooks,46,Female,GERD,Yes,Omeprazole,2023-11-12,Dr. Sarah Wilson
+57,Albert Richardson,53,Male,Obesity,No,Diet control,2023-01-17,Dr. David Brown
+57,Albert Richardson,53,Male,Hypertension,Yes,Lisinopril,2023-05-12,Dr. Michael Taylor
+57,Albert Richardson,53,Male,Type 2 Diabetes,Yes,Metformin,2023-10-18,Dr. Sarah Davis
+58,Jessie Sanchez,39,Female,GERD,Yes,Omeprazole,2023-03-01,Dr. Sarah Wilson
+58,Jessie Sanchez,39,Female,Anxiety,Yes,Xanax,2023-06-10,Dr. William Thomas
+58,Jessie Sanchez,39,Female,Insomnia,Yes,Melatonin,2023-11-15,Dr. David Thompson
+59,Shawn Murphy,42,Male,GERD,Yes,Omeprazole,2023-02-14,Dr. Sarah Wilson
+59,Shawn Murphy,42,Male,Anxiety,Yes,Xanax,2023-06-29,Dr. William Thomas
+59,Shawn Murphy,42,Male,Insomnia,Yes,Melatonin,2023-10-24,Dr. David Thompson
+60,Tiffany Perez,33,Female,GERD,Yes,Omeprazole,2023-01-19,Dr. Sarah Wilson
+60,Tiffany Perez,33,Female,Anxiety,Yes,Xanax,2023-04-22,Dr. William Thomas
+60,Tiffany Perez,33,Female,Insomnia,Yes,Melatonin,2023-09-08,Dr. David Thompson
+61,Donald Evans,55,Male,GERD,Yes,Omeprazole,2023-03-10,Dr. Sarah Wilson
+61,Donald Evans,55,Male,Anxiety,Yes,Xanax,2023-06-17,Dr. William Thomas
+61,Donald Evans,55,Male,Insomnia,Yes,Melatonin,2023-11-05,Dr. David Thompson
+62,Angela Griffin,48,Female,GERD,Yes,Omeprazole,2023-02-21,Dr. Sarah Wilson
+62,Angela Griffin,48,Female,Anxiety,Yes,Xanax,2023-05-27,Dr. William Thomas
+62,Angela Griffin,48,Female,Insomnia,Yes,Melatonin,2023-09-15,Dr. David Thompson
+63,Arthur Diaz,44,Male,GERD,Yes,Omeprazole,2023-01-14,Dr. Sarah Wilson
+63,Arthur Diaz,44,Male,Anxiety,Yes,Xanax,2023-04-21,Dr. William Thomas
+63,Arthur Diaz,44,Male,Insomnia,Yes,Melatonin,2023-08-08,Dr. David Thompson
+64,Anna Hayes,39,Female,GERD,Yes,Omeprazole,2023-03-28,Dr. Sarah Wilson
+64,Anna Hayes,39,Female,Anxiety,Yes,Xanax,2023-07-15,Dr. William Thomas
+64,Anna Hayes,39,Female,Insomnia,Yes,Melatonin,2023-10-30,Dr. David Thompson
+65,Billy Barnes,41,Male,GERD,Yes,Omeprazole,2023-02-05,Dr. Sarah Wilson
+65,Billy Barnes,41,Male,Anxiety,Yes,Xanax,2023-05-12,Dr. William Thomas
+65,Billy Barnes,41,Male,Insomnia,Yes,Melatonin,2023-09-26,Dr. David Thompson
+66,Lori Johnston,47,Female,GERD,Yes,Omeprazole,2023-01-10,Dr. Sarah Wilson
+66,Lori Johnston,47,Female,Anxiety,Yes,Xanax,2023-04-28,Dr. William Thomas
+66,Lori Johnston,47,Female,Insomnia,Yes,Melatonin,2023-10-11,Dr. David Thompson
+67,Kenneth Dunn,52,Male,GERD,Yes,Omeprazole,2023-02-15,Dr. Sarah Wilson
+67,Kenneth Dunn,52,Male,Anxiety,Yes,Xanax,2023-05-22,Dr. William Thomas
+67,Kenneth Dunn,52,Male,Insomnia,Yes,Melatonin,2023-08-28,Dr. David Thompson
+68,Diana Warren,41,Female,GERD,Yes,Omeprazole,2023-03-02,Dr. Sarah Wilson
+68,Diana Warren,41,Female,Anxiety,Yes,Xanax,2023-06-19,Dr. William Thomas
+68,Diana Warren,41,Female,Insomnia,Yes,Melatonin,2023-11-25,Dr. David Thompson
+69,Jordan Robertson,44,Male,GERD,Yes,Omeprazole,2023-02-17,Dr. Sarah Wilson
+69,Jordan Robertson,44,Male,Anxiety,Yes,Xanax,2023-06-06,Dr. William Thomas
+69,Jordan Robertson,44,Male,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+70,Kristen Gordon,39,Female,GERD,Yes,Omeprazole,2023-01-22,Dr. Sarah Wilson
+70,Kristen Gordon,39,Female,Anxiety,Yes,Xanax,2023-04-05,Dr. William Thomas
+70,Kristen Gordon,39,Female,Insomnia,Yes,Melatonin,2023-09-11,Dr. David Thompson
+71,Stephen Shaw,47,Male,GERD,Yes,Omeprazole,2023-02-05,Dr. Sarah Wilson
+71,Stephen Shaw,47,Male,Anxiety,Yes,Xanax,2023-05-17,Dr. William Thomas
+71,Stephen Shaw,47,Male,Insomnia,Yes,Melatonin,2023-10-20,Dr. David Thompson
+72,Crystal Webb,43,Female,GERD,Yes,Omeprazole,2023-01-18,Dr. Sarah Wilson
+72,Crystal Webb,43,Female,Anxiety,Yes,Xanax,2023-04-29,Dr. William Thomas
+72,Crystal Webb,43,Female,Insomnia,Yes,Melatonin,2023-09-04,Dr. David Thompson
+73,Ethan Porter,41,Male,GERD,Yes,Omeprazole,2023-03-06,Dr. Sarah Wilson
+73,Ethan Porter,41,Male,Anxiety,Yes,Xanax,2023-06-14,Dr. William Thomas
+73,Ethan Porter,41,Male,Insomnia,Yes,Melatonin,2023-11-22,Dr. David Thompson
+74,Melanie Hunt,38,Female,GERD,Yes,Omeprazole,2023-02-12,Dr. Sarah Wilson
+74,Melanie Hunt,38,Female,Anxiety,Yes,Xanax,2023-05-26,Dr. William Thomas
+74,Melanie Hunt,38,Female,Insomnia,Yes,Melatonin,2023-10-11,Dr. David Thompson
+75,Benjamin Ramirez,39,Male,GERD,Yes,Omeprazole,2023-01-15,Dr. Sarah Wilson
+75,Benjamin Ramirez,39,Male,Anxiety,Yes,Xanax,2023-04-02,Dr. William Thomas
+75,Benjamin Ramirez,39,Male,Insomnia,Yes,Melatonin,2023-09-10,Dr. David Thompson
+76,Suzanne Myers,44,Female,GERD,Yes,Omeprazole,2023-03-22,Dr. Sarah Wilson
+76,Suzanne Myers,44,Female,Anxiety,Yes,Xanax,2023-06-29,Dr. William Thomas
+76,Suzanne Myers,44,Female,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+77,Tyler Barnes,42,Male,GERD,Yes,Omeprazole,2023-01-12,Dr. Sarah Wilson
+77,Tyler Barnes,42,Male,Anxiety,Yes,Xanax,2023-04-23,Dr. William Thomas
+77,Tyler Barnes,42,Male,Insomnia,Yes,Melatonin,2023-09-30,Dr. David Thompson
+78,Brianna Howard,39,Female,GERD,Yes,Omeprazole,2023-02-27,Dr. Sarah Wilson
+78,Brianna Howard,39,Female,Anxiety,Yes,Xanax,2023-06-14,Dr. William Thomas
+78,Brianna Howard,39,Female,Insomnia,Yes,Melatonin,2023-10-21,Dr. David Thompson
+79,Marcus Kelly,45,Male,GERD,Yes,Omeprazole,2023-01-21,Dr. Sarah Wilson
+79,Marcus Kelly,45,Male,Anxiety,Yes,Xanax,2023-05-06,Dr. William Thomas
+79,Marcus Kelly,45,Male,Insomnia,Yes,Melatonin,2023-09-13,Dr. David Thompson
+80,Leah Griffin,41,Female,GERD,Yes,Omeprazole,2023-03-16,Dr. Sarah Wilson
+80,Leah Griffin,41,Female,Anxiety,Yes,Xanax,2023-06-29,Dr. William Thomas
+80,Leah Griffin,41,Female,Insomnia,Yes,Melatonin,2023-10-18,Dr. David Thompson
+81,Walter Simmons,44,Male,GERD,Yes,Omeprazole,2023-02-20,Dr. Sarah Wilson
+81,Walter Simmons,44,Male,Anxiety,Yes,Xanax,2023-06-01,Dr. William Thomas
+81,Walter Simmons,44,Male,Insomnia,Yes,Melatonin,2023-11-15,Dr. David Thompson
+82,Danielle Hicks,39,Female,GERD,Yes,Omeprazole,2023-01-10,Dr. Sarah Wilson
+82,Danielle Hicks,39,Female,Anxiety,Yes,Xanax,2023-04-22,Dr. William Thomas
+82,Danielle Hicks,39,Female,Insomnia,Yes,Melatonin,2023-09-08,Dr. David Thompson
+83,Jesus Stewart,42,Male,GERD,Yes,Omeprazole,2023-03-25,Dr. Sarah Wilson
+83,Jesus Stewart,42,Male,Anxiety,Yes,Xanax,2023-07-02,Dr. William Thomas
+83,Jesus Stewart,42,Male,Insomnia,Yes,Melatonin,2023-11-12,Dr. David Thompson
+84,Melissa Cox,37,Female,GERD,Yes,Omeprazole,2023-02-21,Dr. Sarah Wilson
+84,Melissa Cox,37,Female,Anxiety,Yes,Xanax,2023-06-15,Dr. William Thomas
+84,Melissa Cox,37,Female,Insomnia,Yes,Melatonin,2023-10-30,Dr. David Thompson
+85,Lucas Price,43,Male,GERD,Yes,Omeprazole,2023-01-14,Dr. Sarah Wilson
+85,Lucas Price,43,Male,Anxiety,Yes,Xanax,2023-04-29,Dr. William Thomas
+85,Lucas Price,43,Male,Insomnia,Yes,Melatonin,2023-09-04,Dr. David Thompson
+86,Kimberly Hill,39,Female,GERD,Yes,Omeprazole,2023-03-22,Dr. Sarah Wilson
+86,Kimberly Hill,39,Female,Anxiety,Yes,Xanax,2023-06-29,Dr. William Thomas
+86,Kimberly Hill,39,Female,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+87,Gabriel Stewart,45,Male,GERD,Yes,Omeprazole,2023-02-17,Dr. Sarah Wilson
+87,Gabriel Stewart,45,Male,Anxiety,Yes,Xanax,2023-06-06,Dr. William Thomas
+87,Gabriel Stewart,45,Male,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+88,Bethany Myers,38,Female,GERD,Yes,Omeprazole,2023-01-10,Dr. Sarah Wilson
+88,Bethany Myers,38,Female,Anxiety,Yes,Xanax,2023-04-21,Dr. William Thomas
+88,Bethany Myers,38,Female,Insomnia,Yes,Melatonin,2023-09-08,Dr. David Thompson
+89,Nicholas Howard,43,Male,GERD,Yes,Omeprazole,2023-03-25,Dr. Sarah Wilson
+89,Nicholas Howard,43,Male,Anxiety,Yes,Xanax,2023-07-02,Dr. William Thomas
+89,Nicholas Howard,43,Male,Insomnia,Yes,Melatonin,2023-11-12,Dr. David Thompson
+90,Kelly Patterson,39,Female,GERD,Yes,Omeprazole,2023-02-21,Dr. Sarah Wilson
+90,Kelly Patterson,39,Female,Anxiety,Yes,Xanax,2023-06-15,Dr. William Thomas
+90,Kelly Patterson,39,Female,Insomnia,Yes,Melatonin,2023-10-30,Dr. David Thompson
+91,Dylan Rivera,43,Male,GERD,Yes,Omeprazole,2023-01-14,Dr. Sarah Wilson
+91,Dylan Rivera,43,Male,Anxiety,Yes,Xanax,2023-04-29,Dr. William Thomas
+91,Dylan Rivera,43,Male,Insomnia,Yes,Melatonin,2023-09-04,Dr. David Thompson
+92,Brianna Bailey,38,Female,GERD,Yes,Omeprazole,2023-03-22,Dr. Sarah Wilson
+92,Brianna Bailey,38,Female,Anxiety,Yes,Xanax,2023-06-29,Dr. William Thomas
+92,Brianna Bailey,38,Female,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+93,Jacob Hayes,44,Male,GERD,Yes,Omeprazole,2023-02-17,Dr. Sarah Wilson
+93,Jacob Hayes,44,Male,Anxiety,Yes,Xanax,2023-06-06,Dr. William Thomas
+93,Jacob Hayes,44,Male,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+94,Hannah Myers,39,Female,GERD,Yes,Omeprazole,2023-01-10,Dr. Sarah Wilson
+94,Hannah Myers,39,Female,Anxiety,Yes,Xanax,2023-04-21,Dr. William Thomas
+94,Hannah Myers,39,Female,Insomnia,Yes,Melatonin,2023-09-08,Dr. David Thompson
+95,Cody Crawford,43,Male,GERD,Yes,Omeprazole,2023-03-25,Dr. Sarah Wilson
+95,Cody Crawford,43,Male,Anxiety,Yes,Xanax,2023-07-02,Dr. William Thomas
+95,Cody Crawford,43,Male,Insomnia,Yes,Melatonin,2023-11-12,Dr. David Thompson
+96,Erin Rivera,39,Female,GERD,Yes,Omeprazole,2023-02-21,Dr. Sarah Wilson
+96,Erin Rivera,39,Female,Anxiety,Yes,Xanax,2023-06-15,Dr. William Thomas
+96,Erin Rivera,39,Female,Insomnia,Yes,Melatonin,2023-10-30,Dr. David Thompson
+97,Christian Hill,43,Male,GERD,Yes,Omeprazole,2023-01-14,Dr. Sarah Wilson
+97,Christian Hill,43,Male,Anxiety,Yes,Xanax,2023-04-29,Dr. William Thomas
+97,Christian Hill,43,Male,Insomnia,Yes,Melatonin,2023-09-04,Dr. David Thompson
+98,Madison Howard,38,Female,GERD,Yes,Omeprazole,2023-03-22,Dr. Sarah Wilson
+98,Madison Howard,38,Female,Anxiety,Yes,Xanax,2023-06-29,Dr. William Thomas
+98,Madison Howard,38,Female,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+99,Logan Hicks,44,Male,GERD,Yes,Omeprazole,2023-02-17,Dr. Sarah Wilson
+99,Logan Hicks,44,Male,Anxiety,Yes,Xanax,2023-06-06,Dr. William Thomas
+99,Logan Hicks,44,Male,Insomnia,Yes,Melatonin,2023-10-14,Dr. David Thompson
+100,Audrey Pierce,39,Female,GERD,Yes,Omeprazole,2023-01-10,Dr. Sarah Wilson
+100,Audrey Pierce,39,Female,Anxiety,Yes,Xanax,2023-04-21,Dr. William Thomas
+100,Audrey Pierce,39,Female,Insomnia,Yes,Melatonin,2023-09-08,Dr. David Thompson
